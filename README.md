@@ -1,3 +1,6 @@
+### Forked repository
+Original source can be found here -> https://codeberg.org/ziglings/exercises/
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
